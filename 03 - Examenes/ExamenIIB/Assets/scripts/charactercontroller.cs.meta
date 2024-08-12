@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f89506712c4fec04eaa539ffc6c1cf16
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sonidoSalto: {instanceID: 0}
+  - prefabArbol: {fileID: 1509643376489109643, guid: 1b0d69004c614664cbbd868fff620389, type: 3}
+  - gameManager: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

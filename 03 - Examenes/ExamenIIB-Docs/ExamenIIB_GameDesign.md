@@ -34,8 +34,9 @@ El jugador se mueve por el bosque recogiendo basura y plantando árboles en las 
 
 **2.2. Controles**  
 - **Movimiento:** Flechas izquierda y derecha
-- **Recolección de Basura:** Tecla E
-- **Plantación de Árboles:** Tecla F (requiere haber recogido suficiente basura)
+- **Salto:** Barra espaciadora
+- **Crecimiento/Decrecimiento:** Tecla Z
+- **Plantar arboles:** Tecla X
 
 **2.3. Mecánicas**  
 - **Limpieza:** Recolectar basura dispersa en el bosque.
