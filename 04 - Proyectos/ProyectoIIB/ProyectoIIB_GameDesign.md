@@ -39,10 +39,8 @@ El jugador controla al héroe en un entorno 2D, moviéndose a través de platafo
 ### 2.2. Controles
 - **Movimiento:** Flechas izquierda y derecha
 - **Salto:** Barra espaciadora
-- **Crecimiento Temporal:** Tecla E
-- **Ataque:** Tecla Z
-- **Defensa/Bloqueo:** Tecla X
-- **Habilidad Especial:** Tecla Q
+- **Crecimiento/Decrecimiento:** Tecla Z
+- **Plantar arboles:** Tecla X
 
 ### 2.3. Mecánicas
 - **Movimiento y Salto:** El jugador puede moverse a la izquierda y derecha y saltar para evitar obstáculos y enemigos.
@@ -62,8 +60,7 @@ El héroe, un joven guerrero, descubre que la reina ha sido secuestrada por un o
 ### 3.2. Descripción del Mundo
 El juego se desarrolla en un mundo de fantasía dividido en diversas regiones, cada una con su propia estética y desafíos:
 - **Bosque Encantado:** Un denso bosque lleno de criaturas mágicas y trampas naturales.
-- **Cueva de Cristal:** Una cueva subterránea resplandeciente, repleta de cristales y monstruos oscuros.
-- **Castillo Oscuro:** Un imponente castillo en ruinas, hogar del villano y sus secuaces.
+- **Campo:** Un campo verde lleno de vegataciones donde se podrá plantar los arboles.
 
 ### 3.3. Mapas y Niveles
 - **Nivel 1: Bosque Encantado:** El héroe debe navegar a través de un denso bosque, enfrentando criaturas y resolviendo puzles para avanzar.
