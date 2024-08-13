@@ -40,7 +40,7 @@ El jugador controla al héroe en un entorno 2D, moviéndose a través de platafo
 - **Movimiento:** Flechas izquierda y derecha
 - **Salto:** Barra espaciadora
 - **Crecimiento/Decrecimiento:** Tecla Z
-- **Deslzarse:** Tecla C
+- **Deslizarse:** Tecla C
 - **Teletransportarse:** Tecla T
 
 ### 2.3. Mecánicas
